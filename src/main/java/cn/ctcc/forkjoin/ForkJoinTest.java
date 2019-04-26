@@ -13,7 +13,7 @@ import java.util.stream.LongStream;
  * @Modified:
  * @version: V1.0
  */
-public class TestForkJoin {
+public class ForkJoinTest {
 
 
     @Test
@@ -46,6 +46,9 @@ public class TestForkJoin {
     }
 
 
+    /**
+     * DoubleStream ， IntStream ， LongStream
+     */
     @Test
     public void test03(){
 
